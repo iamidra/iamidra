@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamidra
 - 👀 I’m interested in coding ...
-- 🌱 I’m currently learning .computer science ..
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning .computer networks & information security engineering ..
+- 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me .idramkumbanya48@gmail.com ..
 
 <!---
